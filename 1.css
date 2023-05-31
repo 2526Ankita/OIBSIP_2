@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://gumlet.assettype.com/barandbench%2Fimport%2F2015%2F07%2F00-FB-Share-Pic5.jpg?auto=format%2Ccompress&fit=max&w=400&dpr=2.6");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    position: absolute;
+    font-size: 60px;
+    font-weight:bold;
+    color: white;
+    padding: 20px 20px 20px 10px;
+}
+span{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    left: 20vw;
+}
+.quote{
+    position: absolute;
+    color: white;
+    top: 30vh;
+    left:2.5vw;
+    border: 3px dotted white;
+    font-size: 20px;
+    border-radius: 10%;
+    padding: 5px 5px 5px 5px;
+}
+.content{
+    position:absolute;
+    color: white;
+    left:70vw;
+    top:3vh;
+    border:3px inset white;
+    padding:17px 17px 17px 17px;
+}
